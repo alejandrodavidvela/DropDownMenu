@@ -1,3 +1,20 @@
+CHECK OUT THE SITE:
+
+https://aged-paper-1310.on.fleek.co/
+
+
+
+
+
+
+I made this site following Brian Design's YT tutorial linked below.
+
+React Navbar Dropdown Menu Responsive Tutorial - Beginner React JS Project
+
+https://youtu.be/T2MhVxJxsL0
+
+
+========================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
